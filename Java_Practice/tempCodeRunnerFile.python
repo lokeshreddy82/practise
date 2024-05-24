@@ -1,0 +1,5 @@
+def answer():
+ print("Hello World")
+answer()
+f=open("stdin.txt","r") # type: ignore
+print(f.readline)
